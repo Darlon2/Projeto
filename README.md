@@ -6,10 +6,13 @@ ___________________________________________________________________
 
 # STATUS: Finalizado
 
+___________________________________________________________________
+
 ## Índice ✅
 - <a href="#funcionalidades">Funcionalidades do Projeto</a>
 - <a href="#layot">Layout</a>
 - <a href="#demonstracao">Demonstração</a>
+- <a href="#Acesso">Acesso ao Projeto </a>
 - <a href="autor">Autor</a>
 - <a href="#linguagem">Linguagem Utilizada</a>
 
@@ -29,6 +32,9 @@ ___________________________________________________________________
 ![ digitando o nome dos participantes ](./assents/ex3.jpeg)
 ![ digitando o nome dos participantes ](./assents/ex4.jpeg)
 ![ digitando o nome dos participantes ](./assents/Sorteado.jpeg)
+
+## Acesso ao projeto
+![Projeto](https://github.com/Darlon2/Projeto)
 
 ## Autor
 ![eu](./assents/nova.png)
