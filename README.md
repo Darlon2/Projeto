@@ -27,6 +27,7 @@ após concluir todos os nomes dos participantes ir no campo abaixo onde está de
 ##Funcionalidades
 
 ✅ Funcionabilidade 1: Inserir nomes dos participantes 
+
 ✅ Funcionabilidade 2: Sortear 1 nome dos nomes participantes.
 
 
