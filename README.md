@@ -10,11 +10,11 @@ ___________________________________________________________________
 
 ## Índice ✅
 - <a href="#funcionalidades">Funcionalidades do Projeto</a>
-- <a href="#layot">Layout</a>
-- <a href="#demonstracao">Demonstração</a>
-- <a href="#Acesso">Acesso ao Projeto </a>
+- <a href="layot">Layout</a>
+- <a href="demonstracao">Demonstração</a>
+- <a href="Acesso">Acesso ao Projeto </a>
 - <a href="autor">Autor</a>
-- <a href="#linguagem">Linguagem Utilizada</a>
+- <a href="linguagem">Linguagem Utilizada</a>
 
 
 ## 📱Funcionalidades do Projeto
