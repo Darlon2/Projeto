@@ -24,11 +24,11 @@ ___________________________________________________________________
  Esse sistema te da acesso para inserir os nomes de todos os participantes, sendo simples e funcional. Basta inserir os nomes no campo " Digite um nome"  sendo 1 de cada vez e ir clicando no campo ao lado "Adicionar".
 após concluir todos os nomes dos participantes ir no campo abaixo onde está descrito "Sortear amigo" . Assim será sorteado o nome do seu amigo secreto.
 
-##Funcionalidades
+## Funcionalidades
 
-✅ Funcionabilidade 1: Inserir nomes dos participantes 
+✅ Funcionabilidade 1:  Inserir nomes dos participantes 
 
-✅ Funcionabilidade 2: Sortear 1 nome dos nomes participantes.
+✅ Funcionabilidade 2:  Sortear 1 nome dos nomes participantes.
 
 
 ## Layout 
