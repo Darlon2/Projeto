@@ -50,7 +50,7 @@ após concluir todos os nomes dos participantes ir no campo abaixo onde está de
 
 
 ## Acesso ao projeto
-[Projeto](https://github.com/Darlon2/Projeto)
+Você pode acessar o código do [Projeto](https://github.com/Darlon2/Projeto)
 
 ## Autor
 ![eu](./assents/nova.png)
