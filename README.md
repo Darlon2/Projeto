@@ -66,7 +66,7 @@ Usando o visual studio code irá conseguir visualizar o código e testar. Basta 
 ## Desenvolvedor
 ![eu](./assents/nova.png)
 
-[linkedin](https://www.linkedin.com/in/darlonoliveiraa/)
+[Darlon Oliveira_Linkedin](https://www.linkedin.com/in/darlonoliveiraa/)
 
 
 
