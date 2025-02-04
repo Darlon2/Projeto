@@ -2,6 +2,10 @@
 ![Amigosecreto](./assents/amigo.png)
 Meu projeto Amigo Secreto
 
+___________________________________________________________________
+
+# STATUS: Finalizado
+
 ## Índice ✅
 - <a href="#funcionalidades">Funcionalidades do Projeto</a>
 - <a href="#layot">Layout</a>
