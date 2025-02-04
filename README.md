@@ -9,7 +9,6 @@ ___________________________________________________________________
 ## Tópicos ✅
 - <a href="#descricao">Descrição do projeto</a>
 - <a href="#funcao">Funcionabilidades</a>
-- <a href="#layot">Layout</a>
 - <a href="#aplicacao">Aplicação</a>
 - <a href="#ferramentas">Ferramentas utilizadas</a>
 - <a href="#acesso">Acesso ao Projeto </a>
@@ -30,9 +29,6 @@ após concluir todos os nomes dos participantes ir no campo abaixo onde está de
 
 ✅ Funcionabilidade 2:  Sortear 1 nome dos nomes participantes.
 
-
-## Layout 
-![ tela de digitar nome do participante](./assents/Tela.jpeg)
 
 ## Aplicação
 ![ digitando o nome dos participantes ](./assents/expessoa1.jpeg)
