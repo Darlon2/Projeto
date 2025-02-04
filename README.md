@@ -59,7 +59,8 @@ Após baixar o projeto, você pode abrir com o Visual studio code. Para isso com
 - Open file, open folder;
 - Procure o local onde o projeto está e selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de adquiri-lo);
 - Por fim clique em OK.
-Usando o visual studio code irá conseguir visualizar o código e executar para abrir o jogo no navegador, basta ir no arquivo HTML em seguida clicar com botão direito e ir em abrir Open with live server e irá conseguir ver o projeto direto do navegador.
+  
+Usando o visual studio code irá conseguir visualizar o código e testar. Basta ir no arquivo HTML em seguida clicar com botão direito e ir em abrir Open with live server e irá conseguir ver o projeto direto do navegador.
 
 
 ## Desenvolvedor
