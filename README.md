@@ -8,11 +8,12 @@ ___________________________________________________________________
 
 ## Tópicos ✅
 - <a href="#descricao">Descrição do projeto</a>
+- <a href="#funcao">Funcionabilidades</a>
 - <a href="#layot">Layout</a>
 - <a href="#demonstracao">Demonstração</a>
+- <a href="#ferramentas">Ferramentas utilizadas</a>
 - <a href="#acesso">Acesso ao Projeto </a>
 - <a href="#autor">Autor</a>
-- <a href="#linguagem">Linguagem Utilizada</a>
 
 
 ## Descrição do Projeto
@@ -21,6 +22,11 @@ ___________________________________________________________________
  
  Esse sistema te da acesso para inserir os nomes de todos os participantes, sendo simples e funcional. Basta inserir os nomes no campo " Digite um nome"  sendo 1 de cada vez e ir clicando no campo ao lado "Adicionar".
 após concluir todos os nomes dos participantes ir no campo abaixo onde está descrito "Sortear amigo" . Assim será sorteado o nome do seu amigo secreto.
+
+##Funcionalidades
+
+✅ Funcionabilidade 1: Inserir nomes dos participantes 
+✅ Funcionabilidade 2: Sortear 1 nome dos nomes participantes.
 
 
 ## Layout 
@@ -36,6 +42,13 @@ após concluir todos os nomes dos participantes ir no campo abaixo onde está de
 ![ digitando o nome dos participantes ](./assents/ex4.jpeg)
 ![ digitando o nome dos participantes ](./assents/Sorteado.jpeg)
 
+## Ferramentas utilizadas
+
+1. HTML
+2. JAVA SCRIPT
+3. CSS
+
+
 ## Acesso ao projeto
 [Projeto](https://github.com/Darlon2/Projeto)
 
@@ -46,11 +59,6 @@ após concluir todos os nomes dos participantes ir no campo abaixo onde está de
 
 
 
-## Linguagem utilizada
-
-1. HTML
-2. JAVA SCRIPT
-3. CSS
 
  
 
