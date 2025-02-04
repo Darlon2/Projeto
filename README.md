@@ -34,7 +34,7 @@ Meu projeto Amigo Secreto
 
 
 ## Linguagem utilizada
-1. HtML 
+1. HtML
 2. Java Script
 3. CSS
 
