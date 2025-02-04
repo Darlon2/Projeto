@@ -1,5 +1,5 @@
 # PROJETO AMIGO SECRETO! 
-! [Amigosecreto](./assents/amigo.png)
+![Amigosecreto](./assents/amigo.png)
 Meu projeto Amigo Secreto
 
 ## Índice ✅
