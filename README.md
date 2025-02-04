@@ -17,10 +17,11 @@ ___________________________________________________________________
 
 ## Descrição do Projeto
 
- Proejto foi desenvolvido para facilitar o sorteio de um amigo.  
- Esse projeto é baseado na brincadeira chamada "Amigo Secreto" onde os amigos se reunem para trocar presentes, sendo que ninguem sabe quem irá dar o presente. 
- Esse sistema te da acesso para inserir os nomes de todos os participantes, sendo super simples e funcional, basta inserir os nomes no campor " Digite um nome" , sendo 1 de cada vez e ir clicando no campo ao lado na cor cinza "Adicionar".
-após concluir todos os nomes é so ir no campo embaixo onde está escrito na cor laranja "Sortear amigo" e irá aparecer um nome sorteado esse nome é o seu amigo secreto.
+ Esse Projeto foi desenvolvido para facilitar o sorteio de um amigo, baseado na brincadeira chamada "Amigo Secreto",  onde os amigos se reunem para trocar presentes, sem saber quem irá presentea-lo.
+ 
+ Esse sistema te da acesso para inserir os nomes de todos os participantes, sendo simples e funcional. Basta inserir os nomes no campo " Digite um nome"  sendo 1 de cada vez e ir clicando no campo ao lado "Adicionar".
+após concluir todos os nomes dos participantes ir no campo abaixo onde está descrito "Sortear amigo" . Assim será sorteado o nome do seu amigo secreto.
+
 
 ## Layout 
 ![ tela de digitar nome do participante](./assents/Tela.jpeg)
