@@ -7,7 +7,7 @@ ___________________________________________________________________
 ___________________________________________________________________
 
 ## Tópicos ✅
-- <a href="#funcionalidades">Funcionalidades do Projeto</a>
+- <a href="#descricao">Descrição do projeto</a>
 - <a href="#layot">Layout</a>
 - <a href="#demonstracao">Demonstração</a>
 - <a href="#acesso">Acesso ao Projeto </a>
@@ -15,8 +15,12 @@ ___________________________________________________________________
 - <a href="#linguagem">Linguagem Utilizada</a>
 
 
-## 📱Funcionalidades do Projeto
-- [x] Digitar nome de todos os amigos sendo um de cada vez.
+## Descrição do Projeto
+
+ Proejto foi desenvolvido para facilitar o sorteio de um amigo. Esse projeto é baseado na brincadeira chamada "Amigo Secreto" onde os amigos se reunem para trocar presentes, sendo que ninguem sabe quem irá dar o presente.
+  Esse projeto te da acesso para inserir os nomes de todos os participantes, sendo super simples e funcional.
+  basta inserir os nomes no campor " Digite um nome" , sendo 1 de cada vez e ir clicando no campo ao lado na cor cinza "Adicionar".
+após concluir todos os nomes é so ir no campo embaixo onde está escrito na cor laranja "Sortear amigo" e irá aparecer um nome sorteado esse nome é o seu amigo secreto.
 
 ## Layout 
 ![ tela de digitar nome do participante](./assents/Tela.jpeg)
