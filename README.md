@@ -34,7 +34,7 @@ ___________________________________________________________________
 ![ digitando o nome dos participantes ](./assents/Sorteado.jpeg)
 
 ## Acesso ao projeto
-![Projeto](https://github.com/Darlon2/Projeto)
+[Projeto](https://github.com/Darlon2/Projeto)
 
 ## Autor
 ![eu](./assents/nova.png)
