@@ -43,7 +43,7 @@ após concluir todos os nomes dos participantes ir no campo abaixo onde está de
 ## Ferramentas utilizadas
 
 1. HTML
-2. JAVA SCRIPT
+2. JAVASCRIPT
 3. CSS
 
 
