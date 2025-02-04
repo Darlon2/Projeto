@@ -3,12 +3,10 @@
 Meu projeto Amigo Secreto
 
 ___________________________________________________________________
-
-# STATUS: Finalizado
-
+## STATUS: Finalizado
 ___________________________________________________________________
 
-## Índice ✅
+## Tópicos ✅
 - <a href="#funcionalidades">Funcionalidades do Projeto</a>
 - <a href="#layot">Layout</a>
 - <a href="#demonstracao">Demonstração</a>
