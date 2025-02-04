@@ -13,6 +13,7 @@ ___________________________________________________________________
 - <a href="#aplicacao">Aplicação</a>
 - <a href="#ferramentas">Ferramentas utilizadas</a>
 - <a href="#acesso">Acesso ao Projeto </a>
+- <a href="#rodarprojeto">Abrir e rodar o projeto </a>
 - <a href="#autor">Autor</a>
 
 
@@ -52,7 +53,16 @@ após concluir todos os nomes dos participantes ir no campo abaixo onde está de
 ## Acesso ao projeto
 Você pode acessar o código fonte do [Projeto](https://github.com/Darlon2/Projeto)
 
-## Autor
+## Abrir e rodar o projeto
+Após baixar o projeto, você pode abrir com o Visual studio code. Para isso com o visual Studio já aberto clique em:
+
+- Open file, open folder;
+- Procure o local onde o projeto está e selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de adquiri-lo);
+- Por fim clique em OK.
+Usando o visual studio code irá conseguir visualizar o código e executar para abrir o jogo no navegador, basta ir no arquivo HTML em seguida clicar com botão direito e ir em abrir Open with live server e irá conseguir ver o projeto direto do navegador.
+
+
+## Desenvolvedor
 ![eu](./assents/nova.png)
 
 [linkedin](https://www.linkedin.com/in/darlonoliveiraa/)
