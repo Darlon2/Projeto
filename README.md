@@ -10,7 +10,7 @@ ___________________________________________________________________
 - <a href="#descricao">Descrição do projeto</a>
 - <a href="#funcao">Funcionabilidades</a>
 - <a href="#layot">Layout</a>
-- <a href="#demonstracao">Demonstração</a>
+- <a href="#aplicacao">Aplicação</a>
 - <a href="#ferramentas">Ferramentas utilizadas</a>
 - <a href="#acesso">Acesso ao Projeto </a>
 - <a href="#autor">Autor</a>
@@ -32,7 +32,7 @@ após concluir todos os nomes dos participantes ir no campo abaixo onde está de
 ## Layout 
 ![ tela de digitar nome do participante](./assents/Tela.jpeg)
 
-## Demonstração
+## Aplicação
 ![ digitando o nome dos participantes ](./assents/expessoa1.jpeg)
 ![ digitando o nome dos participantes ](./assents/inicio.jpeg)
 ![ digitando o nome dos participantes ](./assents/ex0.jpeg)
